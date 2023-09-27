@@ -111,7 +111,7 @@ int main() {
 		printf ("    GGGGGG  AA      AA MM     MM EEEEEE        \n\n");
 		
 		printf ("     OOOO   VV      VV EEEEEE RRRRR              \n");
-	    printf ("   OO    OO  VV    VV  EE     RR  RR             \n");
+	        printf ("   OO    OO  VV    VV  EE     RR  RR             \n");
 		printf ("   OO    OO   VV  VV   EEEEEE RR RR              \n");
 		printf ("   OO    OO    VVVV    EE     RR  RR             \n");
 		printf ("     OOOO       VV     EEEEEE RR   RR            \n");
